@@ -1,0 +1,15 @@
+{
+  "name": "oauth_demo",
+  "version": "1.0.0",
+  "description": "This is to understand the oauth authentication process",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anand Rikka <appsbyanand@gmail.com> (http://techanand.wordpress.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
+}
